@@ -1,0 +1,29 @@
+h1 {
+  display: flex;
+  justify-content: center;
+  text-shadow: 2px 2px 5px rgb(11, 102, 238);
+}
+
+h3{
+  color:blueviolet;
+}
+
+body {
+  background-color: rgb(232, 176, 235);
+}
+
+p {
+  font-family: script;
+  font-size: 16px;
+}
+
+#me {
+  display: flex;
+  justify-content: center;
+
+}
+
+#likes, #dislikes{
+  width: 50%;
+  padding: 30 px;
+}
